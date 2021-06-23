@@ -21,7 +21,7 @@ Esse projeto está sendo desenvolvido com as tecnologias:
 - [TypeScript](https://www.typescriptlang.org/)
 - [Node.js](https://nodejs.org/en/)
 
-## 💻 Projeto
+## 💻 Explicação do Projeto
 
 Site Blob Formatura*, uma solução desenvolvida para organizar e simplificar o trabalho de contabilidade da arrecadação de dinheiro para formaturas de turmas do ensino médio.
 
