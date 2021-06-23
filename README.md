@@ -25,8 +25,6 @@ Esse projeto está sendo desenvolvido com as tecnologias:
 
 Site Blob Formatura*, uma solução desenvolvida para organizar e simplificar o trabalho de contabilidade da arrecadação de dinheiro para formaturas de turmas do ensino médio.
 
-<h5>*Nome temporário</h5>
-
 ## 📁 Repos
 
 - [Site (web)](https://github.com/rodrigoeduardo/blob)
